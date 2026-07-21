@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "651482898221",
+    "project_id": "skinvision-ai-b3572",
+    "storage_bucket": "skinvision-ai-b3572.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651482898221:android:17debb93a65dc91f20fda4",
+        "android_client_info": {
+          "package_name": "com.example.skinvision_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7X3Svjd5EUXEbFAYq-zyZwaXu-mnC27c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
