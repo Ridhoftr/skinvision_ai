@@ -1,9 +1,9 @@
-fastapi
-uvicorn
-tensorflow-cpu==2.16.1
-numpy
-pillow
+fastapi==0.115.0
+uvicorn==0.35.0
+tensorflow==2.16.1
+numpy==1.26.4
+Pillow
 python-multipart
 matplotlib
-shap
+shap==0.47.2
 h5py
